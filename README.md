@@ -1,3 +1,6 @@
 # Turma A de amor
 
-aula de github
+Instalar github desktop
+fetch
+
+enviar modificações via push
