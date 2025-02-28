@@ -1,1 +1,3 @@
-# turmaa2702
+# Turma A de amor
+
+aula de github
